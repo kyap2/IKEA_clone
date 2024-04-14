@@ -1,6 +1,15 @@
-p {
+.offer-banner {
     display: flex;
     justify-content: center;
-    font-size: 100px;
+    font-size: 30px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: yellow;
+    margin: 10px;
+    padding: 10px;
+}
+
+#banner-icon {
+    padding: 35px;
     color: red;
 }
